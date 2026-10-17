@@ -1,0 +1,14 @@
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\bin\Debug\net10.0\Challanges.exe
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\bin\Debug\net10.0\Challanges.deps.json
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\bin\Debug\net10.0\Challanges.runtimeconfig.json
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\bin\Debug\net10.0\Challanges.dll
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\bin\Debug\net10.0\Challanges.pdb
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\obj\Debug\net10.0\Challanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\obj\Debug\net10.0\Challanges.AssemblyInfoInputs.cache
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\obj\Debug\net10.0\Challanges.AssemblyInfo.cs
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\obj\Debug\net10.0\Challanges.csproj.CoreCompileInputs.cache
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\obj\Debug\net10.0\Challanges.dll
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\obj\Debug\net10.0\refint\Challanges.dll
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\obj\Debug\net10.0\Challanges.pdb
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\obj\Debug\net10.0\Challanges.genruntimeconfig.cache
+C:\Users\erick.kolhrausch\Desktop\learn c#\Challanges\obj\Debug\net10.0\ref\Challanges.dll
